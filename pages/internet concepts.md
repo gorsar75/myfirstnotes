@@ -1,2 +1,1 @@
--
--
+- The internet is simply a global network of cables that allows each one connected to a network to communicate with any other device connected to it.
